@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C96064DE-1429-D224-14E8-1F48348FA0E9}") = "Physics-Shooter", "Assembly-CSharp.csproj", "{1132CDE1-B8A5-C858-BEA1-CF3FFA7C9252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1132CDE1-B8A5-C858-BEA1-CF3FFA7C9252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1132CDE1-B8A5-C858-BEA1-CF3FFA7C9252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1132CDE1-B8A5-C858-BEA1-CF3FFA7C9252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1132CDE1-B8A5-C858-BEA1-CF3FFA7C9252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
