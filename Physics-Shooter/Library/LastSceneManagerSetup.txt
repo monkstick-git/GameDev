@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/PhysicsShooter.unity
-  isLoaded: 1
-  isActive: 1
