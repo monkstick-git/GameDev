@@ -1,2 +1,2 @@
-'./SideScroller Shooter/Temp'
-'./SideScroller Shooter/Library'
+'SideScroller Shooter/Temp/'
+'SideScroller Shooter/Library/'
