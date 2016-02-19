@@ -1,2 +1,0 @@
-'SideScroller Shooter/Temp/'
-'SideScroller Shooter/Library/'
