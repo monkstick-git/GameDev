@@ -25,11 +25,11 @@ public class Shooting : MonoBehaviour {
                                                  // GetComponent<AudioSource>().Play();
 
 
-                Vector3 worldMousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-                Vector3 direction = worldMousePosition - transform.position;
-                Vector3 angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Atan2;
-                energyBall.transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-                energyBall.rigidbody2D.AddForce(energyBall.transform.right * 5000);
+               // Vector3 worldMousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+                //Vector3 direction = worldMousePosition - transform.position;
+                //Vector3 angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Atan2;
+                //energyBall.transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+                //energyBall.rigidbody2D.AddForce(energyBall.transform.right * 5000);
 
 
             }
